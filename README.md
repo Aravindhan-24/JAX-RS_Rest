@@ -5,29 +5,29 @@ This project implements four HTTP calls GET, PUT, POST, DELETE to implement Read
 
 The following urls are used to perform the basic functionalies: 
 
-1. To retirve all staffs,
-   @GET
-   localhost:8080/staffs
+1. To retirve all staffs,<br />
+   @GET<br />
+   localhost:8080/staffs<br />
   
-2. To retive a particular staff,
-   @GET
-   localhost:8080/getStaff/{id}
+2. To retive a particular staff,<br />
+   @GET<br />
+   localhost:8080/getStaff/{id}<br />
 
-3. To add  staff,
-   @POST
-   localhost:8080/staff
-   pass the staff details(id, name, desgination, salary) in body.
+3. To add  staff,<br />
+   @POST<br />
+   localhost:8080/staff<br />
+   pass the staff details(id, name, desgination, salary) in body.<br />
    
-4. To update staff,
-   @PUT
-   localhost:8080/updateStaff
-   pass the staff details(id, name, desgination, salary) in body.
+4. To update staff,<br />
+   @PUT<br />
+   localhost:8080/updateStaff<br />
+   pass the staff details(id, name, desgination, salary) in body.<br />
   
-5. To delete staff, 
-   @DELETE
-   localhost:8080/deleteStaff
-   pass the staff details(id, name, desgination, salary) in body.
+5. To delete staff, <br />
+   @DELETE<br />
+   localhost:8080/deleteStaff<br />
+   pass the staff details(id, name, desgination, salary) in body.<br />
     
 
-Tools : Eclipse IDE, MYSQL, POSTMAn.
+Tools : Eclipse IDE, MYSQL, POSTMAN.<br />
 Technolgy : JAX-RS, JAVA, Hibernate, JPA, HQL.
