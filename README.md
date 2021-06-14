@@ -9,7 +9,7 @@ The following urls are used to perform the basic functionalies:
    @GET
    localhost:8080/staffs
   
-2. To retive a particular staff
+2. To retive a particular staff,
    @GET
    localhost:8080/getStaff/{id}
 
